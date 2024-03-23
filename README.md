@@ -5,3 +5,6 @@ Programma sviluppato per l'esame di Ingegneria della Conoscenza 2022-2023.
 
 ---
 Per maggiori informazioni è possibile consultare il file "Documentazione eSOS-Sys.pdf".
+
+## Team di sviluppo
+[Mazzotta Alessandro](https://github.com/a-mazzotta) e [Verna Vito](https://github.com/Verna-Vito)
